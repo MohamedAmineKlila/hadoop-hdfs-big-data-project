@@ -6,6 +6,7 @@ Big Data project demonstrating Hadoop HDFS commands on a large synthetic e-comme
 
 - Mohamed Amine Klila
 - Bara Whibi
+- Eya Rbaii
 
 ## Repository Contents
 
