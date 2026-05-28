@@ -1,0 +1,8 @@
+project_outputs/
+project_outputs_verified/
+*.txt
+*.crc
+*.zip
+downloaded_dataset*.csv
+merged_*.txt
+__pycache__/
