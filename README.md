@@ -11,7 +11,7 @@ Big Data project demonstrating Hadoop HDFS commands on a large synthetic e-comme
 ## Repository Contents
 
 - `reports/` - final PDF report and editable Word report files.
-- `data/` - main dataset plus smaller CSV sample files for the bonus multiple-dataset task.
+- `data/` - smaller CSV sample files for the bonus multiple-dataset task.
 - `scripts/` - dataset generation and HDFS command scripts.
 - `screenshots/` - VM screenshots showing Hadoop services, HDFS upload, command outputs, and bonus evidence.
 
